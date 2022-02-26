@@ -1,0 +1,23 @@
+#Paris{
+	background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.2) 50%), url(../../images/paris.jpeg);
+	background-size: cover;
+	background-position: center;
+	
+	
+}
+
+#Marseille{
+	background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.2) 50%), url(../../images/marseille.jpeg);
+	background-size: cover;
+	background-position: center;
+	
+	
+}
+
+#Lille{
+	background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.2) 50%), url(../../images/lille.jpeg);
+	background-size: cover;
+	background-position: center;
+	
+}
+
